@@ -5,13 +5,13 @@ const About = () => {
   const features = [
     {
       icon: Building2,
-      title: "Expert Craftsmanship",
-      description: "Quality construction with attention to every detail"
+      title: "Märkimisväärne töö",
+      description: "Kvaliteetne ehitus, kus iga detail on läbi mõeldud"
     },
     {
       icon: Users,
-      title: "Experienced Team",
-      description: "Skilled professionals with 25+ years of experience"
+      title: "Kogenud Meeskond",
+      description: "Spetsialistid, kellel on üle 25 aasta kogemust"
     },
     {
       icon: Award,
@@ -20,8 +20,8 @@ const About = () => {
     },
     {
       icon: Wrench,
-      title: "Full Service",
-      description: "From planning to completion, we handle everything"
+      title: "Täisteenus",
+      description: "Planeerimisest teostuseni - meie tegeleme kõigega"
     }
   ];
 
