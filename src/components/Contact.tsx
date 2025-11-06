@@ -6,9 +6,9 @@ const Contact = () => {
     <section id="contact" className="py-20 bg-muted">
       <div className="container mx-auto px-4">
         <div className="text-center mb-16">
-          <h2 className="text-4xl md:text-5xl font-bold mb-4">Get in Touch</h2>
+          <h2 className="text-4xl md:text-5xl font-bold mb-4">Võtke ühendust</h2>
           <p className="text-xl text-muted-foreground">
-            Ready to start your construction project? Contact us today!
+            Valmis alustama ehitusprojekti? Võtke ühendust juba täna!
           </p>
         </div>
 
@@ -18,7 +18,7 @@ const Contact = () => {
               <div className="inline-flex items-center justify-center w-16 h-16 bg-primary/10 rounded-full mb-4">
                 <Phone className="w-8 h-8 text-primary" />
               </div>
-              <h3 className="text-xl font-semibold mb-2">Phone</h3>
+              <h3 className="text-xl font-semibold mb-2">Telefoninumber</h3>
               <a
                 href="tel:+15551234567"
                 className="text-muted-foreground hover:text-primary transition-colors"
@@ -35,7 +35,7 @@ const Contact = () => {
               </div>
               <h3 className="text-xl font-semibold mb-2">Email</h3>
               <a
-                href="mailto:info@buildpro.com"
+                href="mailto:erkehitus@gmail.com"
                 className="text-muted-foreground hover:text-primary transition-colors"
               >
                 erkehitus@gmail.com
@@ -48,7 +48,7 @@ const Contact = () => {
               <div className="inline-flex items-center justify-center w-16 h-16 bg-primary/10 rounded-full mb-4">
                 <MapPin className="w-8 h-8 text-primary" />
               </div>
-              <h3 className="text-xl font-semibold mb-2">Address</h3>
+              <h3 className="text-xl font-semibold mb-2">Aadress</h3>
               <p className="text-muted-foreground">
                 Keldrimäe tn 2<br />
                 Tallinn, Kesklinn 10144
