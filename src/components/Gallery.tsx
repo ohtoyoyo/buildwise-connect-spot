@@ -44,9 +44,9 @@ const Gallery = () => {
     <section id="gallery" className="py-20 bg-background">
       <div className="container mx-auto px-4">
         <div className="text-center mb-16">
-          <h2 className="text-4xl md:text-5xl font-bold mb-4">Our Work</h2>
+          <h2 className="text-4xl md:text-5xl font-bold mb-4">Tehtud tööd</h2>
           <p className="text-xl text-muted-foreground">
-            Take a look at some of our recently completed projects
+            Vaadake üle meie hiljuti tehtud projektid
           </p>
         </div>
 
