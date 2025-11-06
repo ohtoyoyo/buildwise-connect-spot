@@ -18,7 +18,7 @@ const Navigation = () => {
       <div className="container mx-auto px-4">
         <div className="flex items-center justify-between h-16">
           <div className="flex items-center">
-            <span className="text-2xl font-bold text-primary">BuildPro</span>
+            <span className="text-2xl font-bold text-primary">ERK EHITUS</span>
           </div>
 
           {/* Desktop Navigation */}
@@ -47,7 +47,7 @@ const Navigation = () => {
             >
               KKK
             </button>
-            <Button onClick={() => scrollToSection("contact")}>Contact Us</Button>
+            <Button onClick={() => scrollToSection("contact")}>Võta ühendust</Button>
           </div>
 
           {/* Mobile menu button */}
