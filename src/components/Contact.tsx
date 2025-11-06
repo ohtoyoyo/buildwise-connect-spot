@@ -38,7 +38,7 @@ const Contact = () => {
                 href="mailto:info@buildpro.com"
                 className="text-muted-foreground hover:text-primary transition-colors"
               >
-                info@buildpro.com
+                erkehitus@gmail.com
               </a>
             </CardContent>
           </Card>
@@ -50,8 +50,8 @@ const Contact = () => {
               </div>
               <h3 className="text-xl font-semibold mb-2">Address</h3>
               <p className="text-muted-foreground">
-                123 Construction Ave<br />
-                Builder City, BC 12345
+                Keldrimäe tn 2<br />
+                Tallinn, Kesklinn 10144
               </p>
             </CardContent>
           </Card>
@@ -62,9 +62,9 @@ const Contact = () => {
             <CardContent className="pt-6">
               <h3 className="text-2xl font-semibold mb-4">Business Hours</h3>
               <div className="space-y-2 text-muted-foreground">
-                <p><strong>Monday - Friday:</strong> 8:00 AM - 6:00 PM</p>
-                <p><strong>Saturday:</strong> 9:00 AM - 4:00 PM</p>
-                <p><strong>Sunday:</strong> Closed</p>
+                <p><strong>Esmaspäev - Reede:</strong> 8:00 AM - 6:00 PM</p>
+                <p><strong>Laupäev:</strong> 9:00 AM - 4:00 PM</p>
+                <p><strong>Pühapäev:</strong> Kinni</p>
               </div>
             </CardContent>
           </Card>
