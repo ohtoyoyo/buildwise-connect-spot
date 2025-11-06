@@ -8,11 +8,11 @@ import {
 const FAQ = () => {
   const faqs = [
     {
-      question: "What types of construction projects do you handle?",
+      question: "Mis tüüpi ehitustöid teete?",
       answer: "We specialize in both residential and commercial construction projects, including new builds, renovations, extensions, and remodeling. From single-family homes to multi-story commercial buildings, our team has the expertise to handle projects of all sizes."
     },
     {
-      question: "How long does a typical construction project take?",
+      question: "Kui kaua tavaline ehitusprojekt aega võtab?",
       answer: "Project timelines vary depending on the scope and complexity. A residential renovation might take 2-4 months, while new construction can take 6-12 months. We provide detailed timelines during our initial consultation and keep you updated throughout the process."
     },
     {
@@ -36,7 +36,7 @@ const FAQ = () => {
       answer: "We stand behind our work with a comprehensive warranty. Structural work typically comes with a 5-year warranty, while other work is covered for 1-2 years. We also help coordinate manufacturer warranties for materials and appliances."
     },
     {
-      question: "Can I make changes during construction?",
+      question: "Kas ma võin teha muudatusi keset ehitustööd?",
       answer: "While we encourage finalizing plans before construction begins, we understand that changes may be necessary. We can accommodate modifications, though they may affect the timeline and budget. We'll always discuss any implications before proceeding with changes."
     }
   ];
