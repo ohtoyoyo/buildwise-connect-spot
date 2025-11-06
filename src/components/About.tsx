@@ -61,11 +61,11 @@ const About = () => {
           </div>
           <div>
             <div className="text-4xl font-bold text-primary mb-2">98%</div>
-            <div className="text-muted-foreground">Klientidest rahul</div>
+            <div className="text-muted-foreground">klientidest rahul</div>
           </div>
           <div>
             <div className="text-4xl font-bold text-primary mb-2">50+</div>
-            <div className="text-muted-foreground">Töölist</div>
+            <div className="text-muted-foreground">töölist</div>
           </div>
         </div>
       </div>
