@@ -16,23 +16,23 @@ const FAQ = () => {
       answer: "Project timelines vary depending on the scope and complexity. A residential renovation might take 2-4 months, while new construction can take 6-12 months. We provide detailed timelines during our initial consultation and keep you updated throughout the process."
     },
     {
-      question: "Are you licensed and insured?",
+      question: "Kas teil on litsents ja kindlustus?",
       answer: "Yes, BuildPro is fully licensed, bonded, and insured. We maintain all necessary certifications and insurance coverage to protect both our team and our clients. We're happy to provide proof of licensing and insurance upon request."
     },
     {
-      question: "Do you provide free estimates?",
+      question: "Kas Te pakute tasuta hinnapkkumisi?",
       answer: "Absolutely! We offer free, no-obligation consultations and estimates for all potential projects. During this meeting, we'll discuss your vision, assess the site, and provide a detailed cost estimate and timeline."
     },
     {
-      question: "What is your payment schedule?",
+      question: "Milline on Teie maksegraafik?",
       answer: "We typically work on a milestone-based payment schedule. This usually includes an initial deposit, progress payments at key project milestones, and a final payment upon completion. We'll outline the specific payment terms in your project contract."
     },
     {
-      question: "Do you handle permits and inspections?",
+      question: "Kas tegelete lubade ja kontrollidega?",
       answer: "Yes, we manage all necessary permits and coordinate required inspections with local authorities. This is included in our comprehensive project management service, ensuring full compliance with all building codes and regulations."
     },
     {
-      question: "What warranty do you offer on your work?",
+      question: "Mis garantiid Te pakute oma ehitustöödel?",
       answer: "We stand behind our work with a comprehensive warranty. Structural work typically comes with a 5-year warranty, while other work is covered for 1-2 years. We also help coordinate manufacturer warranties for materials and appliances."
     },
     {
