@@ -16,7 +16,7 @@ const About = () => {
     {
       icon: Award,
       title: "Licensed & Insured",
-      description: "Fully certified and covered for your peace of mind"
+      description: "lisada midagi"
     },
     {
       icon: Wrench,
