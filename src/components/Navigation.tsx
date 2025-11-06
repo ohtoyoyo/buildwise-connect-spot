@@ -27,25 +27,25 @@ const Navigation = () => {
               onClick={() => scrollToSection("home")}
               className="text-foreground hover:text-primary transition-colors"
             >
-              Home
+              Pealeht
             </button>
             <button
               onClick={() => scrollToSection("about")}
               className="text-foreground hover:text-primary transition-colors"
             >
-              About
+              Meist
             </button>
             <button
               onClick={() => scrollToSection("gallery")}
               className="text-foreground hover:text-primary transition-colors"
             >
-              Gallery
+              Galerii
             </button>
             <button
               onClick={() => scrollToSection("faq")}
               className="text-foreground hover:text-primary transition-colors"
             >
-              FAQ
+              KKK
             </button>
             <Button onClick={() => scrollToSection("contact")}>Contact Us</Button>
           </div>
@@ -69,31 +69,31 @@ const Navigation = () => {
               onClick={() => scrollToSection("home")}
               className="block w-full text-left px-4 py-2 text-foreground hover:text-primary hover:bg-muted rounded-md transition-colors"
             >
-              Home
+              Pealeht
             </button>
             <button
               onClick={() => scrollToSection("about")}
               className="block w-full text-left px-4 py-2 text-foreground hover:text-primary hover:bg-muted rounded-md transition-colors"
             >
-              About
+              Meist
             </button>
             <button
               onClick={() => scrollToSection("gallery")}
               className="block w-full text-left px-4 py-2 text-foreground hover:text-primary hover:bg-muted rounded-md transition-colors"
             >
-              Gallery
+              Galerii
             </button>
             <button
               onClick={() => scrollToSection("faq")}
               className="block w-full text-left px-4 py-2 text-foreground hover:text-primary hover:bg-muted rounded-md transition-colors"
             >
-              FAQ
+              KKK
             </button>
             <button
               onClick={() => scrollToSection("contact")}
               className="block w-full text-left px-4 py-2 text-foreground hover:text-primary hover:bg-muted rounded-md transition-colors"
             >
-              Contact Us
+              Võta ühendust
             </button>
           </div>
         )}
