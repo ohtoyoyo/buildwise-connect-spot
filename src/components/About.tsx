@@ -29,7 +29,7 @@ const About = () => {
     <section id="about" className="py-20 bg-muted">
       <div className="container mx-auto px-4">
         <div className="text-center mb-16">
-          <h2 className="text-4xl md:text-5xl font-bold mb-4">About BuildPro</h2>
+          <h2 className="text-4xl md:text-5xl font-bold mb-4">ERK EHITUSEST</h2>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
             We are a leading construction company dedicated to delivering exceptional results. 
             With over two decades of experience, we've built a reputation for quality, reliability, 
@@ -53,19 +53,19 @@ const About = () => {
         <div className="mt-16 grid grid-cols-2 md:grid-cols-4 gap-8 text-center">
           <div>
             <div className="text-4xl font-bold text-primary mb-2">250+</div>
-            <div className="text-muted-foreground">Projects Completed</div>
+            <div className="text-muted-foreground">Projekte Tehtud</div>
           </div>
           <div>
             <div className="text-4xl font-bold text-primary mb-2">25+</div>
-            <div className="text-muted-foreground">Years Experience</div>
+            <div className="text-muted-foreground">Aastat Kogemust</div>
           </div>
           <div>
             <div className="text-4xl font-bold text-primary mb-2">98%</div>
-            <div className="text-muted-foreground">Client Satisfaction</div>
+            <div className="text-muted-foreground">Klientide Rahulolu</div>
           </div>
           <div>
             <div className="text-4xl font-bold text-primary mb-2">50+</div>
-            <div className="text-muted-foreground">Team Members</div>
+            <div className="text-muted-foreground">Töölisi</div>
           </div>
         </div>
       </div>
