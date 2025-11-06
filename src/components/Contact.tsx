@@ -62,8 +62,8 @@ const Contact = () => {
             <CardContent className="pt-6">
               <h3 className="text-2xl font-semibold mb-4">Lahtiolekuajad</h3>
               <div className="space-y-2 text-muted-foreground">
-                <p><strong>Esmaspäev - Reede:</strong> 8:00 AM - 6:00 PM</p>
-                <p><strong>Laupäev:</strong> 9:00 AM - 4:00 PM</p>
+                <p><strong>Esmaspäev - Reede:</strong> 08:00 - 18:00</p>
+                <p><strong>Laupäev:</strong> 09:00 - 16:00</p>
                 <p><strong>Pühapäev:</strong> Kinni</p>
               </div>
             </CardContent>
