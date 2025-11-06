@@ -36,6 +36,12 @@ const Navigation = () => {
               About
             </button>
             <button
+              onClick={() => scrollToSection("gallery")}
+              className="text-foreground hover:text-primary transition-colors"
+            >
+              Gallery
+            </button>
+            <button
               onClick={() => scrollToSection("faq")}
               className="text-foreground hover:text-primary transition-colors"
             >
@@ -70,6 +76,12 @@ const Navigation = () => {
               className="block w-full text-left px-4 py-2 text-foreground hover:text-primary hover:bg-muted rounded-md transition-colors"
             >
               About
+            </button>
+            <button
+              onClick={() => scrollToSection("gallery")}
+              className="block w-full text-left px-4 py-2 text-foreground hover:text-primary hover:bg-muted rounded-md transition-colors"
+            >
+              Gallery
             </button>
             <button
               onClick={() => scrollToSection("faq")}
