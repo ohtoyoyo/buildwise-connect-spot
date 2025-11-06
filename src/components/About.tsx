@@ -53,19 +53,19 @@ const About = () => {
         <div className="mt-16 grid grid-cols-2 md:grid-cols-4 gap-8 text-center">
           <div>
             <div className="text-4xl font-bold text-primary mb-2">250+</div>
-            <div className="text-muted-foreground">Projekte Tehtud</div>
+            <div className="text-muted-foreground">projekte tehtud</div>
           </div>
           <div>
             <div className="text-4xl font-bold text-primary mb-2">25+</div>
-            <div className="text-muted-foreground">Aastat Kogemust</div>
+            <div className="text-muted-foreground">aastat kogemust</div>
           </div>
           <div>
             <div className="text-4xl font-bold text-primary mb-2">98%</div>
-            <div className="text-muted-foreground">Klientide Rahulolu</div>
+            <div className="text-muted-foreground">Klientidest rahul</div>
           </div>
           <div>
             <div className="text-4xl font-bold text-primary mb-2">50+</div>
-            <div className="text-muted-foreground">Töölisi</div>
+            <div className="text-muted-foreground">Töölist</div>
           </div>
         </div>
       </div>
