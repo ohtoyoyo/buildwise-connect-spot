@@ -60,7 +60,7 @@ const Contact = () => {
         <div className="mt-16 text-center">
           <Card className="max-w-2xl mx-auto">
             <CardContent className="pt-6">
-              <h3 className="text-2xl font-semibold mb-4">Business Hours</h3>
+              <h3 className="text-2xl font-semibold mb-4">Lahtiolekuajad</h3>
               <div className="space-y-2 text-muted-foreground">
                 <p><strong>Esmaspäev - Reede:</strong> 8:00 AM - 6:00 PM</p>
                 <p><strong>Laupäev:</strong> 9:00 AM - 4:00 PM</p>
