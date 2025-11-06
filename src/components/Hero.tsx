@@ -23,7 +23,7 @@ const Hero = () => {
           Ehitame Sinu Tulevikku<br />Ühe Projekti Kaupa
         </h1>
         <p className="text-xl md:text-2xl text-white/90 mb-8 max-w-2xl mx-auto">
-          Professional construction services with over 25 years of experience in residential and commercial projects
+          Professionaalsed ehitustööd enam kui 25-aastase kogemusega elamu- ja ärihoonete projektides
         </p>
         <Button size="lg" onClick={scrollToContact} className="text-lg px-8">
           Tasuta Hinnapakkumine
