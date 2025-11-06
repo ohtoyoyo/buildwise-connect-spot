@@ -20,13 +20,13 @@ const Hero = () => {
       
       <div className="relative z-10 container mx-auto px-4 text-center">
         <h1 className="text-5xl md:text-7xl font-bold text-white mb-6">
-          Building Your Future<br />One Project at a Time
+          Ehitame Sinu Tulevikku<br />Ühe Projekti Kaupa
         </h1>
         <p className="text-xl md:text-2xl text-white/90 mb-8 max-w-2xl mx-auto">
           Professional construction services with over 25 years of experience in residential and commercial projects
         </p>
         <Button size="lg" onClick={scrollToContact} className="text-lg px-8">
-          Get a Free Quote
+          Tasuta Hinnapakkumine
         </Button>
       </div>
     </section>
