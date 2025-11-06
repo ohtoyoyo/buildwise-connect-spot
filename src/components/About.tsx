@@ -31,10 +31,10 @@ const About = () => {
         <div className="text-center mb-16">
           <h2 className="text-4xl md:text-5xl font-bold mb-4">ERK EHITUSEST</h2>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
-            We are a leading construction company dedicated to delivering exceptional results. 
-            With over two decades of experience, we've built a reputation for quality, reliability, 
-            and customer satisfaction. From residential homes to commercial buildings, we bring your 
-            vision to life with professionalism and expertise.
+            Oleme juhtiv ehitusettevõtte, mis on pühendunud erakordsete tulemuste pakkumisele. 
+            Üle kahekümne aasta pikkuse kogemusega oleme loonud maine, kvaliteedi, usaldusväärsuse, 
+            ja klientide rahulolu poolest. Elamutest kuni ärihooneteni - me viime Teie 
+            visiooni ellu professionaalsuse ja asjatundlikkusega.
           </p>
         </div>
 
