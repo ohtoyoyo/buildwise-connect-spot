@@ -9,35 +9,35 @@ const FAQ = () => {
   const faqs = [
     {
       question: "Mis tüüpi ehitustöid teete?",
-      answer: "We specialize in both residential and commercial construction projects, including new builds, renovations, extensions, and remodeling. From single-family homes to multi-story commercial buildings, our team has the expertise to handle projects of all sizes."
+      answer: "vastus1"
     },
     {
       question: "Kui kaua tavaline ehitusprojekt aega võtab?",
-      answer: "Project timelines vary depending on the scope and complexity. A residential renovation might take 2-4 months, while new construction can take 6-12 months. We provide detailed timelines during our initial consultation and keep you updated throughout the process."
+      answer: "vastus2"
     },
     {
       question: "Kas teil on litsents ja kindlustus?",
-      answer: "Yes, BuildPro is fully licensed, bonded, and insured. We maintain all necessary certifications and insurance coverage to protect both our team and our clients. We're happy to provide proof of licensing and insurance upon request."
+      answer: "vastus3"
     },
     {
       question: "Kas Te pakute tasuta hinnapkkumisi?",
-      answer: "Absolutely! We offer free, no-obligation consultations and estimates for all potential projects. During this meeting, we'll discuss your vision, assess the site, and provide a detailed cost estimate and timeline."
+      answer: "vastus4"
     },
     {
       question: "Milline on Teie maksegraafik?",
-      answer: "We typically work on a milestone-based payment schedule. This usually includes an initial deposit, progress payments at key project milestones, and a final payment upon completion. We'll outline the specific payment terms in your project contract."
+      answer: "vastus5"
     },
     {
       question: "Kas tegelete lubade ja kontrollidega?",
-      answer: "Yes, we manage all necessary permits and coordinate required inspections with local authorities. This is included in our comprehensive project management service, ensuring full compliance with all building codes and regulations."
+      answer: "vastus6"
     },
     {
       question: "Mis garantiid Te pakute oma ehitustöödel?",
-      answer: "We stand behind our work with a comprehensive warranty. Structural work typically comes with a 5-year warranty, while other work is covered for 1-2 years. We also help coordinate manufacturer warranties for materials and appliances."
+      answer: "vastus7"
     },
     {
       question: "Kas ma võin teha muudatusi keset ehitustööd?",
-      answer: "While we encourage finalizing plans before construction begins, we understand that changes may be necessary. We can accommodate modifications, though they may affect the timeline and budget. We'll always discuss any implications before proceeding with changes."
+      answer: "vastus8"
     }
   ];
 
