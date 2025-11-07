@@ -15,7 +15,7 @@ const About = () => {
     },
     {
       icon: Award,
-      title: "Licensed & Insured",
+      title: "Lisada midagi",
       description: "lisada midagi"
     },
     {
