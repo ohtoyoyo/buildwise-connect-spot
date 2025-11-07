@@ -17,21 +17,8 @@ const Navigation = () => {
     <nav className="fixed top-0 w-full bg-background/95 backdrop-blur-sm z-50 border-b">
       <div className="container mx-auto px-4">
         <div className="flex items-center justify-between h-16">
-          {/* Logo Section */}
-          <div
-            className="flex items-center cursor-pointer"
-            onClick={() => scrollToSection("home")}
-          >
-            <Image
-              src="/logo.png" // image in /public)
-              alt="ERK Ehitus Logo"
-              width={40}
-              height={40}
-              className="mr-2"
-            />
-            <span className="text-2xl font-bold text-primary hidden sm:block">
-              ERK EHITUS
-            </span>
+          <div className="flex items-center">
+            <span className="text-2xl font-bold text-primary">ERK EHITUS</span>
           </div>
 
           {/* Desktop Navigation */}
@@ -40,7 +27,7 @@ const Navigation = () => {
               onClick={() => scrollToSection("home")}
               className="text-foreground hover:text-primary transition-colors"
             >
-              Kodulehtleht
+              Koduleht
             </button>
             <button
               onClick={() => scrollToSection("about")}
@@ -60,9 +47,7 @@ const Navigation = () => {
             >
               KKK
             </button>
-            <Button onClick={() => scrollToSection("contact")}>
-              Võta ühendust
-            </Button>
+            <Button onClick={() => scrollToSection("contact")}>Võta ühendust</Button>
           </div>
 
           {/* Mobile menu button */}
