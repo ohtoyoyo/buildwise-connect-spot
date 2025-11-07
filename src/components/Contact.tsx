@@ -35,10 +35,10 @@ const Contact = () => {
               </div>
               <h3 className="text-xl font-semibold mb-2">Email</h3>
               <a
-                href="mailto:erkehitus@gmail.com"
+                href="mailto:erkehitus@mail.ee"
                 className="text-muted-foreground hover:text-primary transition-colors"
               >
-                erkehitus@gmail.com
+                erkehitus@mail.ee
               </a>
             </CardContent>
           </Card>
