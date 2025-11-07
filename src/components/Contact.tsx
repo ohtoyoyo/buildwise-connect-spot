@@ -20,10 +20,10 @@ const Contact = () => {
               </div>
               <h3 className="text-xl font-semibold mb-2">Telefoninumber</h3>
               <a
-                href="tel:+15551234567"
+                href="tel:+37251918037"
                 className="text-muted-foreground hover:text-primary transition-colors"
               >
-                +1 (555) 123-4567
+                +372 5191 8037
               </a>
             </CardContent>
           </Card>
