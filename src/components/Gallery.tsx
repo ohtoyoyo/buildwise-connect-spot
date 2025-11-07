@@ -10,8 +10,8 @@ const Gallery = () => {
   const projects = [
     {
       image: gallery1,
-      title: "Modern Luxury Home",
-      category: "Residential"
+      title: "Modernne Luksuslik Kodu",
+      category: "Elamu"
     },
     {
       image: gallery2,
@@ -21,12 +21,12 @@ const Gallery = () => {
     {
       image: gallery3,
       title: "Kitchen Renovation",
-      category: "Interior Renovation"
+      category: "Siseviimistlus"
     },
     {
       image: gallery4,
-      title: "Spa Bathroom Remodel",
-      category: "Bathroom Renovation"
+      title: "Vannitoa ümberehitus",
+      category: "Vannitoa renovatsioon"
     },
     {
       image: gallery5,
@@ -35,8 +35,8 @@ const Gallery = () => {
     },
     {
       image: gallery6,
-      title: "Open Concept Living Space",
-      category: "Interior Design"
+      title: "Avatud Kontseptsioon",
+      category: "Sisekujundus"
     }
   ];
 
