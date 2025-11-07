@@ -20,7 +20,7 @@ const Gallery = () => {
     },
     {
       image: gallery3,
-      title: "Kitchen Renovation",
+      title: "Köögi renovatsioon",
       category: "Siseviimistlus"
     },
     {
